@@ -4,7 +4,8 @@
     }
 
     .card {
-      background-color: #0047ab;
+        background-color: #0047ab;
+        font-size: 40px;
     }
 
     .flex-columns {
@@ -26,7 +27,5 @@
       width: 100px;
       height: 100px;
     }
-    .text-size {
-      font-size: 40px;    
 }
 
