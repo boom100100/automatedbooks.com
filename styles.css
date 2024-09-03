@@ -1,7 +1,7 @@
 .center-width {
-      margin: auto;
-      width: 600px;
-    }
+    margin: auto;
+    width: fit-content;
+}
 
 .container {
     height: 100vh;
