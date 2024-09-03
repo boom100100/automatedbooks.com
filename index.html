@@ -8,13 +8,18 @@
       width: 600px;
     }
 
-    .container {
+    .card {
       background-color: #0047ab;
     }
 
     .flex-columns {
       display: flex;
       flex-direction: column;
+    }
+
+    .flex-rows {
+      display: flex;
+      flex-direction: row;
     }
 
     .center-width {
@@ -32,10 +37,10 @@
   </style>
 </head>
 <body>
-  <div class="center-width">
+  <div class="flex-columns center-width container">
     
       <a href="/bathroom-pro-3000">
-        <div class="container flex-columns">
+        <div class="card flex-rows">
           <img class="image-size" src="/images/pictogram.png" alt="Bathroom pictogram consisting of a stick figure man and woman standing next to each other." />
           <div>
             <div>Pro 3000:</div>
