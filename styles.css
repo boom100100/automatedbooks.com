@@ -14,26 +14,26 @@
       flex-direction: row;
         font-size: 40px;
     }
-    .card-color {
-        background-color: #0047ab;
-}
-    .flex-columns {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .flex-rows {
-    }
-
-    .center-width {
-      margin: auto;
-      width: fit-content;
-      min-width: 400px;
-    }
-
-    .image-size {
-      width: 100px;
-      height: 100px;
-    }
+.card-color {
+    background-color: #0047ab;
 }
 
+.center-width {
+  margin: auto;
+  width: fit-content;
+  min-width: 400px;
+}
+
+.flex-columns {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-size {
+  width: 100px;
+  height: 100px;
+}
+
+.logo {
+ font-size: 60px; 
+}
