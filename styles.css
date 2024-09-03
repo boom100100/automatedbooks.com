@@ -8,19 +8,20 @@
     justify-content: center;
 }
 
-    .card {
-        background-color: #0047ab;
+.card {
+      display: flex;
+      flex-direction: row;
         font-size: 40px;
     }
-
+    .card-color {
+        background-color: #0047ab;
+}
     .flex-columns {
       display: flex;
       flex-direction: column;
     }
 
     .flex-rows {
-      display: flex;
-      flex-direction: row;
     }
 
     .center-width {
