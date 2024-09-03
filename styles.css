@@ -3,6 +3,11 @@
       width: 600px;
     }
 
+.container {
+    height: 100vh;
+    justify-content: center;
+}
+
     .card {
         background-color: #0047ab;
         font-size: 40px;
