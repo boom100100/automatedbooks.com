@@ -36,6 +36,8 @@
 
 .logo {
  font-size: 60px; 
+ display: flex;
+ flex-direction: row;
 }
 
 .unset-a-black {
