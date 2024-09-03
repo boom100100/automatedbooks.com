@@ -1,6 +1,7 @@
 .center-width {
     margin: auto;
     width: fit-content;
+    min-width: 400px;
 }
 
 .container {
@@ -27,6 +28,7 @@
     .center-width {
       margin: auto;
       width: fit-content;
+      min-width: 400px;
     }
 
     .image-size {
