@@ -1,0 +1,32 @@
+.center-width {
+      margin: auto;
+      width: 600px;
+    }
+
+    .card {
+      background-color: #0047ab;
+    }
+
+    .flex-columns {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .flex-rows {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .center-width {
+      margin: auto;
+      width: 600px;
+    }
+
+    .image-size {
+      width: 100px;
+      height: 100px;
+    }
+    .text-size {
+      font-size: 40px;    
+}
+
