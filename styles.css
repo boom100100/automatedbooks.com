@@ -10,18 +10,14 @@
 }
 
 .card {
-      display: flex;
-      flex-direction: row;
-        font-size: 40px;
-    }
+    display: flex;
+    flex-direction: row;
+
+    font-size: 40px;
+    padding: 16px;
+}
 .card-color {
     background-color: #0047ab;
-}
-
-.center-width {
-  margin: auto;
-  width: fit-content;
-  min-width: 400px;
 }
 
 .flex-columns {
