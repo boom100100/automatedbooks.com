@@ -23,6 +23,10 @@
     background-color: #0047ab;
 }
 
+.card-color:hover {
+  background-color: #6699ff;
+}
+
 .flex-columns {
   display: flex;
   flex-direction: column;
