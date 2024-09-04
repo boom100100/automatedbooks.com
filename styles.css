@@ -12,9 +12,11 @@
 .card {
     display: flex;
     flex-direction: row;
+    align-items: center;
 
     font-size: 40px;
     padding: 16px;
+    margin: 16px 0;
 }
 .card-color {
     background-color: #0047ab;
